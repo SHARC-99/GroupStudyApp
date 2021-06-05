@@ -4,7 +4,7 @@ import { Nav,NavDropdown,Navbar,Container } from 'react-bootstrap';
 export default function Header(props) {
     return (
       
-        <Navbar bg="green" expand="lg">
+        <Navbar bg="dark" variant="dark">
   <Container>
     <Navbar.Brand href="#home">StudyWithME!</Navbar.Brand>
     <Navbar.Toggle aria-controls="basic-navbar-nav" />
