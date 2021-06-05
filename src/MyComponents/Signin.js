@@ -18,7 +18,7 @@ const FormPage = () => {
                 </Form.Group>
                 <Button type="submit">Signin</Button>
                 <div style={{ flex: 1 }}>
-                <Button className="btn btn-sm btn-success">Register</Button>
+                <Button className="btn btn-sm btn-success">Signup</Button>
                 </div>
             </Form>
         </div>
